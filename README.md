@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
-<h3 align="center">I am a software engineer by accident</h3>
+<h3 align="center">I am a software developer by accident</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galuh80&label=Profile%20views&color=0e75b6&style=flat" alt="galuh80" /> </p>
 
